@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="Open-Lab-07.01.dll" fullname="C:/Users/onkom/source/repos/Open-Lab-07.01/Open-Lab-07.01/bin/Debug/netcoreapp3.0/Open-Lab-07.01.dll" testcasecount="6" result="Passed" start-time="2021-12-28 20:37:47Z" end-time="2021-12-28 20:37:47Z" duration="0.224821" total="6" passed="6" failed="0" inconclusive="0" skipped="0" asserts="6" random-seed="2123481972">
+  <command-line><![CDATA[C:\Users\onkom\source\repos\Open-Lab-07.01\Open-Lab-07.01\bin\Debug\netcoreapp3.0\Open-Lab-07.01.dll]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1007" name="Open-Lab-07.01.dll" fullname="C:/Users/onkom/source/repos/Open-Lab-07.01/Open-Lab-07.01/bin/Debug/netcoreapp3.0/Open-Lab-07.01.dll" runstate="Runnable" testcasecount="6" result="Passed" start-time="2021-12-28 20:37:47Z" end-time="2021-12-28 20:37:47Z" duration="0.224821" total="6" passed="6" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="6">
+    <environment framework-version="3.12.0.0" clr-version="3.1.19" os-version="Microsoft Windows 10.0.19042" platform="Win32NT" cwd="C:\Users\onkom\source\repos\Open-Lab-07.01\Open-Lab-07.01\bin\Debug\netcoreapp3.0" machine-name="DESKTOP-7OQAPDJ" user="onkom" user-domain="DESKTOP-7OQAPDJ" culture="en-US" uiculture="en-US" os-architecture="x64" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\onkom\source\repos\Open-Lab-07.01\Open-Lab-07.01\bin\Debug\netcoreapp3.0" />
+      <setting name="NumberOfTestWorkers" value="4" />
+    </settings>
+    <properties>
+      <property name="_PID" value="5952" />
+      <property name="_APPDOMAIN" value="Open-Lab-07.01" />
+    </properties>
+    <test-suite type="TestSuite" id="1008" name="Open_Lab_07" fullname="Open_Lab_07" runstate="Runnable" testcasecount="6" result="Passed" start-time="2021-12-28 20:37:47Z" end-time="2021-12-28 20:37:47Z" duration="0.181755" total="6" passed="6" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="6">
+      <test-suite type="TestSuite" id="1009" name="_01" fullname="Open_Lab_07._01" runstate="Runnable" testcasecount="6" result="Passed" start-time="2021-12-28 20:37:47Z" end-time="2021-12-28 20:37:47Z" duration="0.167071" total="6" passed="6" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="6">
+        <test-suite type="TestFixture" id="1000" name="Tests" fullname="Open_Lab_07._01.Tests" classname="Open_Lab_07._01.Tests" runstate="Runnable" testcasecount="6" result="Passed" start-time="2021-12-28 20:37:47Z" end-time="2021-12-28 20:37:47Z" duration="0.147046" total="6" passed="6" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="6">
+          <test-case id="1002" name="BruceWillis" fullname="Open_Lab_07._01.Tests.BruceWillis" methodname="BruceWillis" classname="Open_Lab_07._01.Tests" runstate="Runnable" seed="314840812" result="Passed" start-time="2021-12-28 20:37:47Z" end-time="2021-12-28 20:37:47Z" duration="0.081989" asserts="1" />
+          <test-case id="1005" name="EmmaWatson" fullname="Open_Lab_07._01.Tests.EmmaWatson" methodname="EmmaWatson" classname="Open_Lab_07._01.Tests" runstate="Runnable" seed="1184401712" result="Passed" start-time="2021-12-28 20:37:47Z" end-time="2021-12-28 20:37:47Z" duration="0.000960" asserts="1" />
+          <test-case id="1006" name="JessicaBiel" fullname="Open_Lab_07._01.Tests.JessicaBiel" methodname="JessicaBiel" classname="Open_Lab_07._01.Tests" runstate="Runnable" seed="639394102" result="Passed" start-time="2021-12-28 20:37:47Z" end-time="2021-12-28 20:37:47Z" duration="0.000795" asserts="1" />
+          <test-case id="1001" name="JohnyDepp" fullname="Open_Lab_07._01.Tests.JohnyDepp" methodname="JohnyDepp" classname="Open_Lab_07._01.Tests" runstate="Runnable" seed="297394160" result="Passed" start-time="2021-12-28 20:37:47Z" end-time="2021-12-28 20:37:47Z" duration="0.000783" asserts="1" />
+          <test-case id="1004" name="KateBeckinsale" fullname="Open_Lab_07._01.Tests.KateBeckinsale" methodname="KateBeckinsale" classname="Open_Lab_07._01.Tests" runstate="Runnable" seed="119061395" result="Passed" start-time="2021-12-28 20:37:47Z" end-time="2021-12-28 20:37:47Z" duration="0.000793" asserts="1" />
+          <test-case id="1003" name="TomHanks" fullname="Open_Lab_07._01.Tests.TomHanks" methodname="TomHanks" classname="Open_Lab_07._01.Tests" runstate="Runnable" seed="1912429857" result="Passed" start-time="2021-12-28 20:37:47Z" end-time="2021-12-28 20:37:47Z" duration="0.002430" asserts="1" />
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
